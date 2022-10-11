@@ -1,0 +1,108 @@
+body{
+  background-color: #F8EDE3;
+  align-content: center;
+}
+
+h1{
+  position: absolute;
+  font-size: 1.7rem;
+  top: 30px;
+  left: 35px;
+  font-family: 'Abril Fatface';
+  font-weight: 900;
+}
+
+.h21{
+  position: absolute;
+  font-family: 'Fraunces' cursive;
+  font-weight: 900;
+  left: 35px;
+  top: 220px;
+  color: #3D8361;
+  font-size: 1.8rem;
+}
+
+.h22{
+  position: absolute;
+  font-family: 'Fraunces', serif;
+  font-weight: 900;
+  left: 140px;
+  top: 243px;
+  font-size: 0.8rem;
+  text-decoration: line-through;
+  color: #92A9BD;
+}
+
+h3{
+  position: absolute;
+  font-family: sans-serif;
+  font-size: 0.5rem;
+  letter-spacing: 0.4rem;
+  color: #92A9BD;
+  left: 35px;
+  top: 15px;
+}
+
+.p1{
+  position: absolute;
+  left: 35px;
+  top: 140px;
+  font-family: arial;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: #92A9BD;
+}
+
+.p2{
+  position: absolute;
+  color: black;
+  left: 80px;
+  font-size: 0.8rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.div1{
+  position: absolute;
+  background-color: grey;
+  height: 350px;
+  width: 250px;
+  left: 380px;
+  top: 100px;
+  border-radius: 10px 0 0 10px;
+}
+
+.div2{
+  position: absolute;
+  background-color: #F9F9F9;
+  height: 350px;
+  width: 250px;
+  left: 620px;
+  top: 100px;
+  border-radius: 0 10px 10px 0;
+}
+
+.div3{
+  position: absolute;
+  background-color: #3D8361;
+  height: 35px;
+  width: 200px;
+  left: 25px;
+  top: 292px;
+  border-radius: 10px;
+}
+
+.pef{
+  height: 350px;
+  width: 250px;
+  left: 380px;
+  top: 100px;
+  border-radius: 10px 0 0 10px;
+}
+
+.carrt{
+  height: 15px;
+  width: 15px;
+  left: 55px;
+  position: absolute;
+  top: 10px;
+}
